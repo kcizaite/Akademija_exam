@@ -1,0 +1,7 @@
+.Menu {
+    margin-bottom: 16px;
+}
+
+.Menu-active {
+    font-weight: bold;
+}

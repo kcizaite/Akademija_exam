@@ -1,0 +1,7 @@
+.Create-Blog label, input, textarea, select {
+    display: block;
+}
+
+.Create-Blog label, button {
+    margin-top: 0.8rem;
+}
